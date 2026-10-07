@@ -1,1 +1,0 @@
-# online-inventory-sql-analysis
